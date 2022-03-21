@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
 
 app.listen(PORT, () =>
   console.log(`
-Servidor escuchando en el puerto ${PORT}
+Servidor abierto en ${PORT}
 http://localhost:${PORT}
 `),
 )

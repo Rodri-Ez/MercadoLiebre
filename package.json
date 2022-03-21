@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.17.2"
   },
-  "name": "clase-23---proyecto-web",
+  "name": "proyecto-mercadoliebre",
   "version": "1.0.0",
   "description": "MercadoLiebre",
   "main": "app.js",
